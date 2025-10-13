@@ -11,6 +11,6 @@ This Python script performs exploratory data analysis (EDA) on the Netflix Title
 Output PDF report with charts and summaries
 
 # Run Instructions
-1. Place netflix_titles.csv in the same directory as netflix_eda.py
-2. Run the script:
-python netflix_eda.py
+1. Place netflix_titles.csv in the same directory as Problem1.ipynb
+2. Run the script: Problem1.ipynb
+ 
