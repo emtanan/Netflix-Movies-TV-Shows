@@ -40,7 +40,7 @@ Netflix-Data-Analysis/
 │   └── netflix_analysis_colab.ipynb
 │
 ├── Result/                    # Output PDF and charts
-│   └── NetflixTitlesDataAnalysis.pdf
+│   └── Netflix Titles Data Analysis.pdf
 │
 ├── README.md
 └── requirements.txt
@@ -65,7 +65,7 @@ The generated report includes:
 - Content ratings
 
 📄 **Result Example:**  
-[View the PDF Report](Result/NetflixTitlesDataAnalysis.pdf)
+[View the PDF Report](Result/Netflix Titles Data Analysis.pdf)
 
 ---
 
