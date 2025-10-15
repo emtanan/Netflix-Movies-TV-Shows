@@ -65,7 +65,7 @@ The generated report includes:
 - Content ratings
 
 📄 **Result Example:**  
-[View the PDF Report](Netflix_Titles_Data_Analysis.pdf)
+[View the PDF Report](Netflix_Movies_TV_Shows_Exploratory_Data_Analysis.pdf)
 
 ---
 
