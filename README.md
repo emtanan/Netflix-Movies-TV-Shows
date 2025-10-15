@@ -43,7 +43,6 @@ Netflix-Data-Analysis/
 │   └── Netflix_Movies_TV_Shows_Exploratory_Data_Analysis.pdf
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ---
