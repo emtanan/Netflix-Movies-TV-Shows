@@ -40,7 +40,7 @@ Netflix-Data-Analysis/
 │   └── netflix_analysis_colab.ipynb
 │
 ├── Result/                    # Output PDF and charts
-│   └── Netflix_Titles_Data_Analysis.pdf
+│   └── Netflix_Movies_TV_Shows_Exploratory_Data_Analysis.pdf
 │
 ├── README.md
 └── requirements.txt
