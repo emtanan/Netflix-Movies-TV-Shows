@@ -69,14 +69,6 @@ The generated report includes:
 
 ---
 
-## 🧠 Requirements
-Install dependencies before running:
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 👩‍💻 How to Run
 ### Option 1 — Run Script
 ```bash
